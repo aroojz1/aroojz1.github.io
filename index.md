@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Raheel Nazir"
+title: "Saqib Nazir"
 ---
 
 ![Raheel Nazir](assets/profile_pic.png){: style="width: 300px;" }
 
-I am a Mechanical Engineering student with a strong foundation in calculus, physics, and engineering design. Passionate about motorsports and innovation, I thrive in hands-on environments where I can apply my skills in mechanical design, prototyping, and product development. With expertise in SolidWorks, AutoCAD, CATIA, and MATLAB, I enjoy tackling complex engineering challenges and pushing technological boundaries.  
+I am an Information Systems graduate with a strong foundation in data analysis, public health informatics, and technology-driven solutions. Passionate about leveraging data to improve healthcare outcomes, I thrive in analytical environments where I can apply my skills in SQL, Python, Tableau, and Power BI to extract insights, optimize workflows, and drive decision-making.
 
-Beyond academics, I was an active member of [LSU Tiger Racing Formula SAE](https://www.formulalsu.com/), where I contribute to high-performance vehicle design and engineering. I also serve on the board of my university’s Hiking Club, combining my love for the outdoors with leadership and team-building experiences. Additionally, my involvement in student organizations such as the Student Government Association and Student Programming Board has strengthened my ability to collaborate, organize events, and engage with diverse communities.  
+Beyond academics, I have engaged in various projects focused on healthcare informatics, database design, and fitness tracking, demonstrating my ability to build practical, data-driven applications. My experience as a Financial Analyst Intern at Ameriprise strengthened my analytical skills, while my role as an Assistant Teacher helped me develop mentorship and communication abilities.
 
-With experience mentoring first-year students and working as an assistant teacher, I am passionate about helping others learn and grow. I am eager to gain hands-on experience in mechanical design and engineering to contribute to real-world solutions that drive innovation and improve lives.
+Additionally, my involvement in student organizations such as the UMBC Software Development and Administration Club and the Hiking Club has enhanced my leadership, problem-solving, and teamwork skills. With a commitment to continuous learning and innovation, I am eager to contribute my expertise in public health data science, health informatics, and data analysis to create meaningful impact in the healthcare industry.
+
