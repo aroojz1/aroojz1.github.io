@@ -20,7 +20,4 @@ I have obtained a Bachelor of Science in Information Systems at UMBC, where I de
 **Associate of Arts in General Studies**  
 **Graduated: May 2024**  
 
-I completed my Associate of Arts in General Studies at CCBC, where I built a strong foundation in communication, business management, and analytical problem-solving.  
-
----  
-This version keeps it **concise, structured, and impactful** while emphasizing your academic background in a **professional portfolio-friendly** format. 🚀 Let me know if you need further tweaks!  
+I completed my Associate of Arts in General Studies at CCBC, where I built a strong foundation in communication, business management, and analytical problem-solving.
