@@ -1,6 +1,6 @@
-title: "Raheel Nazir"
-author: "Raheel Nazir"
-description: "Expected Graduation: May 2027"
+title: "Saqib Nazir"
+author: "Saqib Nazir"
+description: "Graduated: January 2025"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -24,8 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 
 external:                  
-  - {title: Mail, icon: envelope, url: "mailto:raheeelnazir@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/RaheelN2005"}
+  - {title: Mail, icon: envelope, url: "mailto:saqnaz4@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/saqnaz4"}
   - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/raheel-n-a6a14932a/"}
 
 comments:
