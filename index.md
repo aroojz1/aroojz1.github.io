@@ -3,7 +3,7 @@ layout: page
 title: "Saqib Nazir"
 ---
 
-![Raheel Nazir](assets/profile_pic.png){: style="width: 300px;" }
+![Saqib Nazir]([assets/profile_pic.png](https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png)){: style="width: 300px;" }
 
 I am an Information Systems graduate with a strong foundation in data analysis, public health informatics, and technology-driven solutions. Passionate about leveraging data to improve healthcare outcomes, I thrive in analytical environments where I can apply my skills in SQL, Python, Tableau, and Power BI to extract insights, optimize workflows, and drive decision-making.
 
