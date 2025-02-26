@@ -19,3 +19,5 @@ To build this system, we used SQL, PHP, HTML, CSS, and AJAX to create a dynamic 
 - Optimized multiple workflows, improving system efficiency by **20%** and reducing data processing time.  
 - Analyzed user interactions to refine navigation and enhance usability.  
 - Designed and tested **six financial analytics tools**, increasing decision-making efficiency by **30%**.
+
+![My Fitness Quest Screenshot](/assets/MyFitnessQuest.png)  
