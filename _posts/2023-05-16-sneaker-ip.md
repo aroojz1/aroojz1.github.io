@@ -9,7 +9,6 @@ In this [project](https://www.beyonceweekumbc.org/sneaker-trade-dress), I interv
 
 
 
-
 I developed a **framework** for identifying design similarities between sneaker brands, providing a clear methodology for detecting potential intellectual property infringement. As part of this effort, I delivered a **detailed report** that offered actionable insights to help sneaker brands protect the originality of their designs and avoid legal conflicts.
 
 ## Key Responsibilities & Achievements  
@@ -27,3 +26,6 @@ I developed a **framework** for identifying design similarities between sneaker 
 - Gained a deeper understanding of the complexities surrounding **intellectual property** in the sneaker industry, particularly **trade dress** and its importance for brand identity.  
 - Developed a stronger understanding of how legal protections, such as **trademarks** and **trade dress registrations**, are essential to preserving a brand's unique design and market position.  
 - Gained insights into the broader implications of IP law, even within the **webspace**, where digital designs and branding are subject to similar protections and potential infringements.
+
+  [![Interview](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=nU4sZVLo5E8)
+
