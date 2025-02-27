@@ -1,5 +1,5 @@
 ---
-title: "Intellectual Property Infringement"
+title: "Intellectual Property Infringement Project"
 layout: post
 ---
 
