@@ -5,7 +5,6 @@ layout: post
 
 ![My Fitness Quest Screenshot](/assets/MyFitnessQuest.png)  
 
-## Project Overview  
 As the lead developer of *My Fitness Quest*, I led the design and development of a web-based fitness tracking platform to help users set goals, track progress, and improve their overall health. The platform includes interactive questionnaires for assessing fitness levels, progress logs to track workouts, nutrition tracking for meal planning, and achievement badges to keep users motivated.  
 
 
