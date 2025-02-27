@@ -8,6 +8,9 @@ layout: post
 ## Project Overview  
 As the lead developer of *My Fitness Quest*, I led the design and development of a web-based fitness tracking platform to help users set goals, track progress, and improve their overall health. The platform includes interactive questionnaires for assessing fitness levels, progress logs to track workouts, nutrition tracking for meal planning, and achievement badges to keep users motivated.  
 
+
+
+
 The project involved building a dynamic and responsive system using **SQL, PHP, HTML, CSS, and AJAX**. I optimized key workflows to make the system 20% more efficient and reduce data processing times. By analyzing user interactions, I identified areas for improvement to enhance navigation and usability. Additionally, I developed and tested six financial analytics tools within the platform, helping users make more informed decisions about their fitness-related expenses, improving decision-making efficiency by 30%.
 
 ## Technologies Used  
