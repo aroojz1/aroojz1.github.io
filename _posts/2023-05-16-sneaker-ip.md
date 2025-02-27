@@ -3,7 +3,7 @@ title: "Intellectual Property Infringement"
 layout: post
 ---
 
-![Sneaker Image](https://images.squarespace-cdn.com/content/v1/6266e618e9da29777bb3e94a/8a5a5518-c6be-4cef-b10e-934b861d83be/Sneaker+18a.jpg?format=2500w)
+<img src="https://images.squarespace-cdn.com/content/v1/6266e618e9da29777bb3e94a/8a5a5518-c6be-4cef-b10e-934b861d83be/Sneaker+18a.jpg?format=2500w" alt="Sneaker Image" width="500" />
 
 In this [project](https://www.beyonceweekumbc.org/sneaker-trade-dress), I interviewed **[Kenneth Anand](https://jayaramlaw.com/kenneth-anand/)**, former General Counsel of **Kanye West’s YEEZY Apparel**, to explore the intricacies of **trade dress infringement** in sneaker design. The project centered around analyzing intellectual property (IP) components such as trade dress, logos, trademarks, and patents, with a focus on identifying design similarities and potential conflicts.
 
@@ -26,6 +26,3 @@ I developed a **framework** for identifying design similarities between sneaker 
 - Gained a deeper understanding of the complexities surrounding **intellectual property** in the sneaker industry, particularly **trade dress** and its importance for brand identity.  
 - Developed a stronger understanding of how legal protections, such as **trademarks** and **trade dress registrations**, are essential to preserving a brand's unique design and market position.  
 - Gained insights into the broader implications of IP law, even within the **webspace**, where digital designs and branding are subject to similar protections and potential infringements.
-
-  [![Interview](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=nU4sZVLo5E8)
-
