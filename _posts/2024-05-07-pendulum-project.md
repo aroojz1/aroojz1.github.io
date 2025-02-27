@@ -1,5 +1,5 @@
 ---
-title: "Pendulum Project"
+title: "Hotel Database Management System"
 layout: post
 ---
 
