@@ -3,13 +3,22 @@ title: "Engineering Design – Team Lead"
 layout: post
 ---
 
-In the **Intro to Engineering Design** course at [CCBC](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/ENSC/101.html), I served as the **Team Lead** for a project where we designed a spaceship the size of a U.S. aircraft carrier.
+![ETL Payroll System](assets/erd.png)  
 
-The primary focus of the design was on **modularity** and **efficiency** for space assembly, using AI-driven tools to ensure the structure could be assembled in orbit.
+## Project Overview  
+As part of a development team, we followed the **Software Development Life Cycle (SDLC)** to design and implement an **ETL payroll system** aimed at automating and streamlining payroll processing. This project involved thorough system analysis, followed by the design and implementation of a database system to manage employee payroll data efficiently.  
 
 
 
-### Project Overview:
-- **Design Focus:** The spaceship was designed with modular components, allowing for easier construction in space. 
-- **Tools Used:** I used **AutoCAD** to create detailed blueprints for the modular components, ensuring **precision** and **compatibility** for orbital assembly.
-- **Team Leadership:** As the team lead, I coordinated with team members to ensure that all components fit together seamlessly and that the project met our design criteria for both functionality and feasibility.
+We also worked on creating solutions for automating data tasks and improving user interaction with the system. The improvements led to more efficient workflows and a significant reduction in manual tasks, allowing payroll staff to focus on more strategic functions. The result was a more reliable, efficient, and user-friendly payroll system.
+
+## Technologies & Methodologies Used  
+- **Systems Development Life Cycle (SDLC)** – Followed a structured approach, including planning, analysis, design, implementation, and maintenance.  
+- **Entity-Relationship Diagrams (ERDs)** – Designed in **3rd Normal Form (3NF)** with primary/foreign keys, cardinalities, and modalities.  
+- **SQL & Automation** – Created optimized SQL scripts to automate payroll data extraction, transformation, and loading (ETL).  
+
+## Key Achievements  
+- Designed ERDs in **3NF**, ensuring data integrity and efficient database performance.  
+- Recommended **5 system improvements**, increasing workflow efficiency by **20%**.  
+- Developed training materials for **3 system updates**, improving user adoption by **25%**.  
+- Automated recurring data tasks using optimized SQL scripts, saving **10+ hours** of manual work per week.  
