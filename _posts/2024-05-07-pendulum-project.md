@@ -3,13 +3,18 @@ title: "Pendulum Project"
 layout: post
 ---
 
-In the **Calculus III** course at [CCBC](https://www.ccbcmd.edu/Programs-and-Courses-Finder/course/MATH/253.html), I led a project focused on applying multivariable calculus to model the motion of a pendulum under varying forces.
+![Hotel Database Management System](/assets/IS_451.png)  
 
-The primary goal was to use advanced calculus techniques to solve complex integrals and differential equations, and to analyze how different forces affect the pendulum's motion.
+As part of a development team, I contributed to the design and implementation of a **hotel database management system**. The system was developed to efficiently manage hotel operations, including reservations, customer data, and financial transactions. Our goal was to streamline workflows and provide quick access to critical business data.  
 
+We utilized **SQL** to optimize database queries and improve reporting capabilities. I played a key role in reducing report generation time by 50%, resolving system issues to enhance database performance, and producing reports that improved operational processes. The system led to increased accuracy in the hotel’s operations and better decision-making for management.
 
+## Technologies Used  
+- **SQL** – Designed and optimized queries for efficient data retrieval.  
+- **Stored Procedures & Queries** – Developed stored procedures for automated report generation.  
+- **Database Design** – Built normalized tables and relationships for optimal data structure.  
 
-### Project Overview:
-- **Modeling Focus:** The project involved modeling the motion of a pendulum under varying forces using multivariable calculus.
-- **Techniques Used:** I utilized advanced calculus techniques, including integrals and differential equations, to solve complex problems related to the motion and stability of the system.
-- **Leadership and Communication:** As the project lead, I coordinated the mathematical analysis, ensuring accurate calculations and clear communication of the results. I presented the findings, showcasing the real-world application of calculus principles and demonstrating the practical impact of mathematical concepts.
+## Key Achievements  
+- Reduced report generation time by **50%** with SQL queries, improving reporting efficiency by **35%**.  
+- Resolved **6+ system issues**, enhancing database performance and reducing errors by **20%**.  
+- Produced **3 operational reports**, improving processes and boosting data accuracy by **10%**.  
