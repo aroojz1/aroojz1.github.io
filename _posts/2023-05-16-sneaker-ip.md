@@ -3,8 +3,12 @@ title: "Intellectual Property Infringement"
 layout: post
 ---
 
-## Project Overview  
-In this project, I interviewed **[Kenneth Anand](https://jayaramlaw.com/kenneth-anand/)**, former General Counsel of Kanye West’s YEEZY Apparel, to explore the intricacies of **trade dress infringement** in sneaker design. The project centered around analyzing intellectual property (IP) components such as trade dress, logos, trademarks, and patents, with a focus on identifying design similarities and potential conflicts.
+![Sneaker Image](https://images.squarespace-cdn.com/content/v1/6266e618e9da29777bb3e94a/8a5a5518-c6be-4cef-b10e-934b861d83be/Sneaker+18a.jpg?format=2500w)
+
+In this [project](https://www.beyonceweekumbc.org/sneaker-trade-dress), I interviewed **[Kenneth Anand](https://jayaramlaw.com/kenneth-anand/)**, former General Counsel of **Kanye West’s YEEZY Apparel**, to explore the intricacies of **trade dress infringement** in sneaker design. The project centered around analyzing intellectual property (IP) components such as trade dress, logos, trademarks, and patents, with a focus on identifying design similarities and potential conflicts.
+
+
+
 
 I developed a **framework** for identifying design similarities between sneaker brands, providing a clear methodology for detecting potential intellectual property infringement. As part of this effort, I delivered a **detailed report** that offered actionable insights to help sneaker brands protect the originality of their designs and avoid legal conflicts.
 
