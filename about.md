@@ -14,5 +14,5 @@ Born and raised in Baltimore, I graduated from the University of Maryland, Balti
 
 I aspire to become a Product Manager, as I believe my strengths align with the cross-functional and vision-driven nature of the position. I seek to combine the technical skills and knowledge gained from my B.S. with my work experience in business and my background in technology.
 
-I am an avid football fan and a sports enthusiast in general. I love solo travel and enjoy hiking and fishing as hobbies.
+I am an avid football fan and a sports enthusiast in general. I love solo travel and enjoy hiking and pickleball as hobbies.
 
