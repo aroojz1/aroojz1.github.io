@@ -3,7 +3,7 @@ layout: page
 title: "Saqib Nazir"
 ---
 
-![Saqib Nazir](https://upload.wikimedia.org/wikipedia/en/0/03/Walter_White_S5B.png){: style="width: 300px;" }
+![Saqib Nazir](/assets/profile_pic.png){: style="width: 300px;" }
 
 A recent graduate from the University of Maryland, Baltimore County, I received a Bachelor of Science in Information Systems and was awarded academic major honors.
 
