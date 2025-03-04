@@ -3,8 +3,6 @@ title: "Causes of Death Pareto Chart"
 layout: post
 ---
 
-## Causes of Death Pareto Chart
-
 This project visualizes the leading causes of death using a **Pareto chart**, allowing for a clear understanding of the most significant contributors to mortality. The chart follows the **Pareto principle (80/20 rule)**, highlighting how a few causes account for the majority of deaths.
 
 <div class='tableauPlaceholder' id='viz1741065622323' style='position: relative'>
@@ -48,6 +46,9 @@ This project visualizes the leading causes of death using a **Pareto chart**, al
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+
+
 
 ### Key Takeaways
 - **Pareto Principle**: A small number of causes account for the majority of deaths.
