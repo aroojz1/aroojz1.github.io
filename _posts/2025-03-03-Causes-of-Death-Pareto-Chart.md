@@ -5,20 +5,20 @@ layout: post
 
 This project visualizes the leading causes of death using a **Pareto chart**, allowing for a clear understanding of the most significant contributors to mortality. The chart follows the **Pareto principle (80/20 rule)**, highlighting how a few causes account for the majority of deaths.
 
-<div class='tableauPlaceholder' id='viz1741065622323' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1741133831091' style='position: relative'>
   <noscript>
     <a href='#'>
-      <img alt='Alternate Pareto ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17410655669760&#47;AlternatePareto&#47;1_rss.png' style='border: none' />
+      <img alt='Alternate Pareto ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CausesofDeathParetoChart_17411337619580&#47;AlternatePareto&#47;1_rss.png' style='border: none' />
     </a>
   </noscript>
   <object class='tableauViz' style='display:none;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
     <param name='embed_code_version' value='3' />
     <param name='site_root' value='' />
-    <param name='name' value='Book1_17410655669760&#47;AlternatePareto' />
+    <param name='name' value='CausesofDeathParetoChart_17411337619580&#47;AlternatePareto' />
     <param name='tabs' value='no' />
     <param name='toolbar' value='yes' />
-    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17410655669760&#47;AlternatePareto&#47;1.png' />
+    <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CausesofDeathParetoChart_17411337619580&#47;AlternatePareto&#47;1.png' />
     <param name='animate_transition' value='yes' />
     <param name='display_static_image' value='yes' />
     <param name='display_spinner' value='yes' />
@@ -30,7 +30,7 @@ This project visualizes the leading causes of death using a **Pareto chart**, al
 </div>
 
 <script type='text/javascript'>
-  var divElement = document.getElementById('viz1741065622323');
+  var divElement = document.getElementById('viz1741133831091');
   var vizElement = divElement.getElementsByTagName('object')[0];
   if (divElement.offsetWidth > 800) {
     vizElement.style.width='800px';
