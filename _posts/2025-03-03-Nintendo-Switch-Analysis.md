@@ -5,13 +5,13 @@ layout: post
 
 This project analyzes **Nintendo Switch games**, focusing on the **top 10 strongest and weakest performers**, the **quality of frequent publishers**, and **release trends by quarter**. This analysis provides insights into game performance and industry trends.
 
-<div class='tableauPlaceholder' id='viz1741147987916' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1741147987916' style='position: relative; max-width: 100%; overflow: hidden;'>
   <noscript>
     <a href='#'>
-      <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;T4&#47;T4S6KMC54&#47;1_rss.png' style='border: none' />
+      <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;T4&#47;T4S6KMC54&#47;1_rss.png' style='border: none; width: 100%; height: auto;' />
     </a>
   </noscript>
-  <object class='tableauViz' style='display:none;'>
+  <object class='tableauViz' style='display:none; width: 100%; max-width: 800px; height: auto;'>
     <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
     <param name='embed_code_version' value='3' />
     <param name='path' value='shared&#47;T4S6KMC54' />
@@ -30,23 +30,13 @@ This project analyzes **Nintendo Switch games**, focusing on the **top 10 strong
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1741147987916');
   var vizElement = divElement.getElementsByTagName('object')[0];
-  if (divElement.offsetWidth > 800) {
-    vizElement.style.width='800px';
-    vizElement.style.height='627px';
-  } else if (divElement.offsetWidth > 500) {
-    vizElement.style.width='800px';
-    vizElement.style.height='627px';
-  } else {
-    vizElement.style.width='100%';
-    vizElement.style.height='927px';
-  }
+  vizElement.style.width='100%';
+  vizElement.style.maxWidth='800px';
+  vizElement.style.height='auto';
   var scriptElement = document.createElement('script');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
-
-
 
 ### Key Takeaways
 - **Top & Bottom Performers**: Identifies the highest and lowest-rated Nintendo Switch games.
