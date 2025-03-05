@@ -38,6 +38,9 @@ This project analyzes **Nintendo Switch games**, focusing on the **top 10 strong
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
+
+
 ### Key Takeaways
 - **Top & Bottom Performers**: Identifies the highest and lowest-rated Nintendo Switch games.
 - **Publisher Quality**: Evaluates the consistency of frequent publishers.
