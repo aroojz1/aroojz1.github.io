@@ -37,7 +37,7 @@ layout: post
   </script>
 </div>
 
-In this **[project](#)**, I developed an interactive **Tableau dashboard** to analyze emergency room (ER) visits, focusing on **patient demographics, wait times, satisfaction levels, and referral patterns**. This dashboard provides valuable insights into ER performance and patient experiences, helping healthcare administrators make data-driven decisions.
+In this **[project](https://public.tableau.com/app/profile/saqib.nazir/viz/ERDashboard_17416653113960/Dashboard1)**, I developed an interactive **Tableau dashboard** to analyze emergency room (ER) visits, focusing on **patient demographics, wait times, satisfaction levels, and referral patterns**. This dashboard provides valuable insights into ER performance and patient experiences, helping healthcare administrators make data-driven decisions.
 
 
 
