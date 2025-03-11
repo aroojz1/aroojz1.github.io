@@ -4,13 +4,13 @@ layout: post
 ---
 
 <div style="text-align: center;">
-  <div class='tableauPlaceholder' id='viz1741701853866' style='position: relative'>
+  <div class='tableauPlaceholder' id='viz1741701853866' style='position: relative; width: 900px; height: 550px; margin: auto;'>
     <noscript>
       <a href='#'>
         <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ER&#47;ERDashboard_17416653113960&#47;Dashboard1&#47;1_rss.png' style='border: none' />
       </a>
     </noscript>
-    <object class='tableauViz'  style='display:none;'>
+    <object class='tableauViz' style='display:none; width: 900px; height: 550px;'>
       <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
       <param name='embed_code_version' value='3' /> 
       <param name='site_root' value='' />
@@ -29,16 +29,8 @@ layout: post
   <script type='text/javascript'>                    
     var divElement = document.getElementById('viz1741701853866');                    
     var vizElement = divElement.getElementsByTagName('object')[0];                    
-    if ( divElement.offsetWidth > 800 ) { 
-      vizElement.style.width='1366px';
-      vizElement.style.height='795px';
-    } else if ( divElement.offsetWidth > 500 ) { 
-      vizElement.style.width='1366px';
-      vizElement.style.height='795px';
-    } else { 
-      vizElement.style.width='100%';
-      vizElement.style.height='2027px';
-    }                     
+    vizElement.style.width = '900px'; 
+    vizElement.style.height = '550px';
     var scriptElement = document.createElement('script');                    
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
