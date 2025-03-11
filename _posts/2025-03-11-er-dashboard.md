@@ -4,13 +4,13 @@ layout: post
 ---
 
 <div style="text-align: center;">
-  <div class='tableauPlaceholder' id='viz1741701853866' style='position: relative; width: 900px; height: 550px; margin: auto;'>
+  <div class='tableauPlaceholder' id='viz1741701853866' style='position: relative; width: 760px; height: 550px; margin: auto;'>
     <noscript>
       <a href='#'>
         <img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;ER&#47;ERDashboard_17416653113960&#47;Dashboard1&#47;1_rss.png' style='border: none' />
       </a>
     </noscript>
-    <object class='tableauViz' style='display:none; width: 900px; height: 550px;'>
+    <object class='tableauViz' style='display:none; width: 760px; height: 550px;'>
       <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
       <param name='embed_code_version' value='3' /> 
       <param name='site_root' value='' />
