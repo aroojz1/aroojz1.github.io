@@ -29,7 +29,7 @@ layout: post
   <script type='text/javascript'>                    
     var divElement = document.getElementById('viz1741701853866');                    
     var vizElement = divElement.getElementsByTagName('object')[0];                    
-    vizElement.style.width = '900px'; 
+    vizElement.style.width = '760px'; 
     vizElement.style.height = '550px';
     var scriptElement = document.createElement('script');                    
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
