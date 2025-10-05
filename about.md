@@ -10,9 +10,8 @@ carousels:
 
 {% include carousel.html height="60" unit="%" duration="7" number="1" %}
 
-Born and raised in Baltimore, I graduated from the University of Maryland, Baltimore County, in 2025 with a B.S. in Information Systems. Growing up surrounded by healthcare professionals, I knew I wanted to pursue a career in the field—but not necessarily as a doctor. Instead, I found a way to blend my passion for technology with my interest in healthcare.
+Born and raised in Alipur Pakistan, I’m currently pursuing a Bachelor of Science in Information Technology at The Islamia University of Bahawalpur, graduating in 2026. Surrounded by a family passionate about helping others, I became fascinated by how data and technology can transform healthcare—not from a clinical side, but through analytics and innovation.
 
-I aspire to become a Product Manager, as I believe my strengths align with the cross-functional and vision-driven nature of the position. I seek to combine the technical skills and knowledge gained from my B.S. with my work experience in business and my background in technology.
+Over the past few years, I’ve developed skills in data analysis, SQL, Python, Power BI, and machine learning, and I’m especially interested in how data can be used to improve patient outcomes and support evidence-based healthcare decisions. I aim to build a career as a Healthcare Data Analyst, using insights and technology to make real-world impact.
 
-I am an avid football fan and a sports enthusiast in general. I love solo travel and enjoy hiking and pickleball as hobbies.
-
+Outside of academics, I enjoy exploring botany, reading fiction books, and spending time outdoors. I’m always eager to learn, collaborate, and take on meaningful projects that connect data, technology, and human wellbeing.
