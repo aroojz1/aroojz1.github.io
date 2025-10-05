@@ -3,21 +3,15 @@ layout: page
 title: "Academics"
 ---
 
-## University of Maryland, Baltimore County (UMBC)  
-**Bachelor of Science in Information Systems**  
-**Graduated: January 2025**  
+## The Islamia University of Bahawalpur
+**Bachelor of Science in Information Technology**  
+**Graduated: May 2026**  
 
-I have obtained a Bachelor of Science in Information Systems at UMBC, where I developed expertise in data management, software development, and healthcare informatics. My coursework focused on the intersection of technology and public health, equipping me with the skills to analyze and improve healthcare systems through data-driven solutions.  
+I am pursuing a Bachelor of Science in Information Technology at The Islamia University of Bahawalpur, where I’ve built a strong foundation in data analysis, software development, and database management. My coursework has deepened my interest in the intersection of technology and healthcare, equipping me with the skills to collect, interpret, and visualize data that can improve decision-making and enhance healthcare outcomes.
 
 ### Core Courses  
-- Management Information Systems  
-- Database Design  
-- Data Communications and Networks  
-- Decision Support Systems  
-- Structured Systems Analysis & Design  
-
-## Community College of Baltimore County (CCBC)  
-**Associate of Arts in General Studies**  
-**Graduated: August 2022**  
-
-I completed my Associate of Arts in General Studies at CCBC, where I built a strong foundation in communication, business management, and analytical problem-solving.
+- Statistics
+- Database Systems
+- Machine Learning
+- Data Structures & Algorithms
+- Information Security
