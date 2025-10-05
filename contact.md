@@ -5,6 +5,6 @@ title: "Contact"
 
 Feel free to reach out via email or connect with me on LinkedIn.
 
-- **Email:** [saqibn1@umbc.edu](mailto:saqibn1@umbc.edu)
-- **LinkedIn:** [Saqib Nazir](https://www.linkedin.com/in/saqibnazir01/)
-- **GitHub:** [saqnaz4](https://github.com/saqnaz4)
+- **Email:** [arujzahra03@gmail.com](mailto:arujzahra03@gmail.com)
+- **LinkedIn:** [Arooj Zahra](https://www.linkedin.com/in/aroojz1/)
+- **GitHub:** [aroojz1](https://github.com/aroojz1)
