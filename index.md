@@ -5,8 +5,8 @@ title: "Arooj Zahra"
 
 ![Arooj Zahra](/assets/profile_pic.png){: style="width: 300px;" }
 
-A recent graduate from the University of Maryland, Baltimore County, I received a Bachelor of Science in Information Systems and was awarded academic major honors.
+I’m a BS Information Technology student at The Islamia University of Bahawalpur with a growing passion for healthcare data analytics. My studies and projects have strengthened my skills in Statistics, Database Systems, Machine Learning, SQL, Excel, and Power BI, enabling me to turn data into meaningful insights.
 
 I have experience working as a financial intern at Ameriprise and a teacher, where I collaborated with cross-functional teams. Here are some of my [projects](https://aroojz1.github.io/portfolio/)
 
-Down the line, I hope to work in a cross-functional role, ideally as a Product Manager, where I can leverage my business and analytical experience as a supplement to my technical background. The intersection of software and hardworking **healthcare** professionals fascinates me, and I seek to develop progressive products that aid humanity as we move toward an increasingly digital age.
+Looking ahead, I hope to work as a Healthcare Data Analyst, using data-driven insights to improve patient outcomes, streamline operations, and support digital transformation in healthcare systems. I’m especially inspired by the intersection of technology and healthcare — where data can truly help humanity.
