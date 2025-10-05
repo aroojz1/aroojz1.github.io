@@ -1,6 +1,6 @@
-title: "Saqib Nazir"
-author: "Saqib Nazir"
-description: "Graduated: January 2025"
+title: "Arooj Zahra"
+author: "Arooj Zahra"
+description: "Graduating: May 2026"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -25,8 +25,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  
   - {title: Mail, icon: envelope, url: "mailto:saqnaz4@gmail.com"}
-  - {title: Github, icon: github, url: "https://github.com/saqnaz4"}
-  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/raheel-n-a6a14932a/"}
+  - {title: Github, icon: github, url: "https://github.com/aroojz1"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/aroojz1/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
